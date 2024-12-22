@@ -49,7 +49,7 @@ For any inquiries, suggestions, or feedback, feel free to reach out:
 
 Below is a snapshot of the Coinmania interface:
 
-(https://github.com/user-attachments/assets/e8739ada-1917-4942-8056-b24cf677b458)
+![Coinmania Preview](https://github.com/user-attachments/assets/e8739ada-1917-4942-8056-b24cf677b458)
 
 ---
 
